@@ -1,112 +1,131 @@
 # Sana Gaied Chortane — Academic Research Portfolio
 
-**Applied Mathematics & Finance**  
+**Applied Mathematics & Finance**
+
 **Quantitative Finance • Risk Management • Entropic Finance • Sustainable Finance • Trustworthy Machine Learning**
 
-[Google Scholar profile](https://scholar.google.com/citations?user=vp1nTe4AAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=vp1nTe4AAAAJ)
+
+---
 
 ## Research Profile
 
-My research focuses on the **measurement, modelling, and prediction of financial risk under uncertainty**. My research trajectory connects:
+My research focuses on the **measurement, modelling, and prediction of financial risk under uncertainty**, at the intersection of quantitative finance, sustainable finance, applied mathematics, and machine learning.
+
+### Research trajectory
 
 **Banking Risk → Entropic Finance → Cryptocurrency Markets → Sustainable Finance → Trustworthy Machine Learning**
 
-The common objective is to develop quantitative approaches that improve asset valuation, risk measurement, uncertainty quantification, and financial decision-making.
+The common objective is to develop quantitative approaches for **asset valuation, risk measurement, uncertainty quantification, and financial decision-making**.
+
+---
 
 ## Selected Publications
 
-### Financial markets, banking and risk
+### Banking, Financial Markets & Risk
 
 - **Does the Russia-Ukraine war lead to currency asymmetries? A US dollar tale**  
-  *The Journal of Economic Asymmetries*, 2022, Elsevier.  
-  Research focus: geopolitical shocks, exchange rates, event-study analysis and financial asymmetries.
+  *The Journal of Economic Asymmetries*, Elsevier, 2022.
 
 - **Extent and determinants of bank risk-taking: evidence from Tunisia**  
-  *International Journal of Corporate Governance*, 2023.  
-  Research focus: bank risk-taking, governance mechanisms and ownership structure.
+  *International Journal of Corporate Governance*, 2023.
 
-### Entropic finance, asset pricing and portfolio optimisation
+### Entropic Finance & Asset Pricing
 
 - **The End of Mean-Variance? Tsallis Entropy Revolutionises Portfolio Optimisation in Cryptocurrencies**  
-  *Journal of Risk and Financial Management*, 2025.  
-  Research focus: Tsallis entropy, portfolio optimisation, cryptocurrency diversification and risk.
+  *Journal of Risk and Financial Management*, 2025.
 
 - **Asset Pricing: A Comparative Analysis of Fama-French Five-Factor with Human Capital-Based Six-Factor Model**  
-  *Advances in Decision Sciences*, 2025.  
-  Research focus: asset pricing and factor models.
+  *Advances in Decision Sciences*, 2025.
 
 - **Information Entropy Theory and Asset Valuation: A Literature Survey**  
-  2022.  
-  Research focus: information theory, market efficiency, portfolio selection and asset valuation.
+  2022.
 
-### Cryptocurrency markets
+### Cryptocurrency Markets
 
 - **The Impact of the COVID-19 Crisis on Cryptocurrency Liquidity**  
-  IEEE conference proceedings, 2022.  
-  Research focus: cryptocurrency liquidity and crisis dynamics.
-
-- **Entropic Geometry and Information Dynamics in Green Cryptocurrency Markets**  
-  *Risks*, 2026.  
-  Research focus: entropy, information dynamics, green cryptocurrencies and market stability.
+  IEEE Conference Proceedings, 2022.
 
 - **Sustaincoins vs. Powcoins: Entropic Pathways of Adaptive Efficiency in the Cryptocurrency Market**  
-  *Management & Prospective*, 2025.  
-  Research focus: adaptive market efficiency, information theory and cryptocurrency sustainability.
+  *Management & Prospective*, 2025.
 
-### Sustainable finance
+- **Entropic Geometry and Information Dynamics in Green Cryptocurrency Markets**  
+  *Risks*, 2026.
+
+### Sustainable Finance
 
 - **Mandatory Sustainability Reporting and Firm Performance: A Quasi-Natural Experiment**  
-  *Finance Research Letters*, 2026, Elsevier.  
-  Research focus: mandatory ESG disclosure, sustainability reporting and firm performance.
+  *Finance Research Letters*, Elsevier, 2026.
 
-## Current Quantitative & Machine-Learning Research Projects
+➡️ [Complete publication list](PUBLICATIONS.md)
+
+---
+
+## Current Research & Reproducibility
 
 ### HSA-CP
-**Hierarchical Sector-Adaptive Conformal Prediction for Large Cross-Sections of Equity Returns**  
-IEEE Big Data 2026 project  
-Repository: `HSA-CP-BigData2026`
+
+**Hierarchical Sector-Adaptive Conformal Prediction for Large Cross-Sections of Equity Returns**
+
+IEEE Big Data 2026 research project
+
+➡️ [GitHub Repository](https://github.com/sgaiedchor/HSA-CP-BigData2026)
+
+---
 
 ### SAGE-CP
-**Scenario-Aware Online Conformal Prediction for Multi-Horizon Climate-Risk Projections**  
-Submitted to *Array*  
-Repository: `sage-cp-online-conformal`
+
+**Scenario-Aware Online Conformal Prediction for Multi-Horizon Climate-Risk Projections**
+
+Online conformal prediction • Climate risk • Distribution shift
+
+➡️ [GitHub Repository](https://github.com/sgaiedchor/sgaiedchor-sage-cp-online-conformal)
+
+---
 
 ### ScenarioRiskFormer
-**A Scenario-Aware Transformer for Robust Multi-Horizon Climate Risk Forecasting under Distribution Shift**  
-ACML 2026 Journal Track project  
-Repository: `ScenarioRiskFormer`
 
-### Physics-Informed Graph Diffusion
-**Physics-Informed Graph Diffusion for Distribution-Free Volatility Forecasting under ESG, Climate, and Biodiversity Uncertainty**  
-ACM CIKM 2026 research project
+**A Scenario-Aware Transformer for Robust Multi-Horizon Climate Risk Forecasting under Distribution Shift**
+
+Transformers • Climate-risk forecasting • Robust prediction
+
+➡️ [GitHub Repository](https://github.com/sgaiedchor/ScenarioRiskFormer)
+
+---
 
 ## Research Areas
 
-1. **Banking, Risk & Financial Asymmetries**
-2. **Entropic Finance, Asset Pricing & Portfolio Optimisation**
-3. **Cryptocurrency Markets & Adaptive Market Dynamics**
-4. **Sustainable Finance, ESG, Climate & Biodiversity Risk**
-5. **Applied Mathematics, Sequential Prediction & Trustworthy Machine Learning**
+**1. Banking, Risk & Financial Asymmetries**
 
-## Reproducible Research
+**2. Entropic Finance, Asset Pricing & Portfolio Optimisation**
 
-Where permitted by publisher and conference policies, repositories may contain source code, experiment scripts, configurations, shareable data or data-access instructions, figures, tables, requirements and reproducibility documentation.
+**3. Cryptocurrency Markets & Adaptive Market Dynamics**
 
-**Manuscripts under peer review are not automatically made public.**
+**4. Sustainable Finance, ESG, Climate & Biodiversity Risk**
+
+**5. Applied Mathematics, Sequential Prediction & Trustworthy Machine Learning**
+
+---
 
 ## Teaching & Supervision
 
-Teaching interests include:
+Teaching interests:
 
 **Finance • Financial Markets • Financial Analysis • Risk Management • Banking • Corporate Finance • Quantitative Methods**
 
-Supervision interests include empirical and quantitative projects involving financial data, econometrics, machine learning, risk modelling and sustainable finance.
+Supervision interests include empirical and quantitative projects involving **financial data, econometrics, machine learning, risk modelling, and sustainable finance**.
+
+---
 
 ## Research Perspective
 
-> **Finance → Risk & Uncertainty → Modelling → Decision**
+### Finance → Risk & Uncertainty → Modelling → Decision
 
-My objective is to connect financial theory, quantitative modelling and trustworthy computational methods to develop useful tools for financial and economic decision-making.
+My objective is to connect **financial theory, quantitative modelling, and trustworthy computational methods** to develop useful tools for financial and economic decision-making.
 
 ---
-*Publication and citation information should be checked against the corresponding publisher record and Google Scholar profile when updated.*
+
+> **“All models are wrong, but some are useful.” — George E. P. Box**
+
+### Sana Gaied Chortane
+Applied Mathematics & Finance
